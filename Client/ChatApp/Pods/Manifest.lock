@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.6.0)
+  - HandyJSON (4.0.0-beta.1)
+  - JSQMessagesViewController (7.3.5):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - Socket.IO-Client-Swift (13.1.1):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON (~> 4.0.0-beta.1)
+  - JSQMessagesViewController
+  - Socket.IO-Client-Swift (~> 13.1.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  HandyJSON: 428bb18e2c34c2a77361accebf90cf64e4f74118
+  JSQMessagesViewController: 6587f56aedbcb150a8ba1d968e1ef58b1bc758b7
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  Socket.IO-Client-Swift: f22222913f29801e30ae0df712db663ec096edc2
+  Starscream: f5da93fe6984c77b694366bf7299b7dc63a76f26
+
+PODFILE CHECKSUM: 02ea95f768145f2b7785082809508d06bbfda8ba
+
+COCOAPODS: 1.1.1
